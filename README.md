@@ -34,7 +34,7 @@ This project uses vibration signals collected from an experimental test rig unde
 
 ### Working of WiSARD Classifier
 
-<img width="241" height="151" alt="image" src="https://github.com/user-attachments/assets/9d5f5b8d-c77d-4515-9324-7a205c23e61a" />
+<img width="2005" height="332" alt="image" src="https://github.com/user-attachments/assets/5a27fb4e-710f-4a06-aeba-7c659adf25a1" />
 
 ## Results:
 
