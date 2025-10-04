@@ -1,0 +1,36 @@
+No Load,ACCURACY (%),,FEATURES FROM TREE,SELECTED FEATURES
+Overall,75.5,,,
+1 feature,44.17,,feature_771,feature_771
+2 features,63.83,,feature_255,feature_255
+3 features,70.17,,feature_389,feature_389
+4 features,69,,feature_361,feature_361
+5 features,69.83,,feature_703,feature_703
+6 features,72.83,,feature_615,feature_615
+7 features,71.67,,feature_182,feature_182
+8 features,72.33,,feature_168,feature_168
+9 features,72.83,,feature_6,feature_6
+10 features,75.67,,feature_705,feature_705
+11 features,78.5,,feature_489,feature_489
+12 features,78,,feature_393,feature_393
+13 features,78.33,,feature_441,feature_441
+14 features,78.33,,feature_873,feature_873
+15 features,78.17,,feature_896,feature_896
+16 features,79.67,,feature_339,feature_339
+17 features,80.33,,feature_451,feature_451
+18 features,81,,feature_1,feature_1
+19 features,82,,feature_586,feature_586
+20 features,82.67,,feature_236,feature_236
+21 features,82.33,,feature_4,feature_4
+22 features,81.67,,feature_199,feature_199
+23 features,81.33,,feature_461,feature_461
+24 features,81.67,,feature_693,feature_693
+25 features,83.67,,feature_249,feature_249
+26 features,83.67,,feature_264,feature_264
+27 features,83.33,,feature_9,feature_9
+28 features,83.5,,feature_532,feature_532
+29 features,83.67,,feature_300,feature_300
+30 features,83.5,,feature_294,feature_294
+31 features,84,,feature_736,feature_736
+32 features,84.17,,feature_33,feature_33
+33 features,84,,feature_384,feature_384
+34 features,84.33,,feature_867,feature_867
